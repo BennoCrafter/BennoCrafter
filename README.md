@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @BennoCrafter
-- 👀 I’m interested in ai.
-- 🌱 I’m currently learning javascript and expand my knowledge around Python.
-- 🏁 My goals are learning: Python, Javascript, Java, Html, css, c#
+# 👋 Hey, I'm @BennoCrafter
 
-<!---
-BennoCrafter/BennoCrafter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Learning: JavaScript, Python, AI  
+🎯 Goals: Master Python, JavaScript, Java, HTML, CSS, C#  
+🎮 Exploring: Game development with Godot
+
+Welcome to my Git! I'm passionate about AI, algorithms and programming. I'm currently diving into JavaScript and deepening my Python skills. My aim? Mastering various languages and exploring the world of game development. Join me on this exciting journey! 🚀
