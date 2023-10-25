@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm BennoCrafter</h1>
 <h3 align="center">Mastering various languages and exploring the world of javascript..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bennocrafter&label=Profile%20views&color=0e75b6&style=flat" alt="bennocrafter" /> </p>
 
 - 🔭 I’m currently working on [GoFlow](https://github.com/BennoCrafter/Goflow)
 
