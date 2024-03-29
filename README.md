@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **javascript and swift**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/BennoCrafter)
 
 - ⭐️ My favourite languages are **javascript** and **python**
 <h3 align="left">Connect with me:</h3>
