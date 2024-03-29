@@ -2,14 +2,13 @@
 <h3 align="center">Mastering various languages and exploring the world of javascript..</h3>
 
 
-- 🔭 I’m currently working on [GoFlow](https://goflow-website.netlify.app/)
+- 🔭 I’m currently working on [Timetable App](https://github.com/BennoCrafter/Timetable)
 
-- 🌱 I’m currently learning **javascript and c**
+- 🌱 I’m currently learning **javascript and swift**
 
 - 👨‍💻 All of my projects are available at [my github profile](my github profile)
 
-- ⚡ Fun fact **I don't really like Javascript, but still use it.**
-
+- ⭐️ My favourite languages are **javascript** and **python**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
